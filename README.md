@@ -5,6 +5,7 @@ This folder contains simple Python scripts.
 2) get_neg_index.py - simple functiona that extracts negative index of an item(s) in the list without limitation on the number of items. Example usage:
 
 waitlist = ["Jane", "Adam", "Alex", "Mike"]
+
 get_index(waitlist, "Jane", "Mike")
 
 Result:
