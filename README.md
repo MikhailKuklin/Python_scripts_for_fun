@@ -9,5 +9,7 @@ waitlist = ["Jane", "Adam", "Alex", "Mike"]
 get_index(waitlist, "Jane", "Mike")
 
 Result:
+
 String Jane has -4 index in the list
+
 String Mike has -1 index in the list
